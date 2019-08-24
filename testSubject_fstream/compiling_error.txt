@@ -1,4 +1,0 @@
-E:\Games\Repo_1\testSubject_fstream\main.cpp: In function 'int main()':
-E:\Games\Repo_1\testSubject_fstream\main.cpp:102:24: error: 'klucz' was not declared in this scope
-                 cin >> klucz;
-                        ^~~~~
